@@ -42,7 +42,7 @@ public class Main {
             } else if (opcion == 5) {
                 System.out.println("👋 Saliendo de la calculadora...");
             } else {
-                System.out.println("⚠️ Opción no válida. Intente nuevamente.\n");
+                System.out.println("⚠️ Opción no válida. Intente nuevamente porfavor.\n");
             }
         } while (opcion != 5);
 
